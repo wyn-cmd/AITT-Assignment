@@ -5,6 +5,9 @@ Log-Based Anomaly Detection for Cybersecurity (HDFS), a machine learning project
 Application utilises the HDFS datasets from Loghub.
 
 
+
+## Loghub Licence
+```
 LICENSE OF LOGHUB
 
 The datasets are freely available for research or academic work, subject to 
@@ -16,3 +19,4 @@ Jieming Zhu, Shilin He, Pinjia He, Jinyang Liu, Michael R. Lyu. Loghub: A Large
 Collection of System Log Datasets for AI-driven Log Analytics. In ISSRE, 2023.
 
 The above license notice shall be included in all copies of the datasets.
+```
